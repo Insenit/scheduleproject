@@ -1,1 +1,3 @@
+# Schedule Project
+
 A simple website that allows users to register an account, and when signed in, check available doctors, schedule appointments with doctors of their choice, and view and manage their scheduled appointments at any time
